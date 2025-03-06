@@ -15,4 +15,4 @@ A modern movie recommendation app built with **React (Vite), SCSS, and TMDB API*
 - **Axios**
 - **React Router**
 - **TMDB API**
-visit site ----> https://recomendermovie.netlify.app/
+- **visit site**  ----> https://recomendermovie.netlify.app/
